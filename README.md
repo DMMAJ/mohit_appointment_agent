@@ -29,6 +29,9 @@ python main.py
 
 # Then in another terminal:
 curl -X POST http://localhost:8000/api/chat/ingest-faqs
+
+OR
+# Use fast API's /docs for all testing.
 ```
 
 ### 4. Use the System
@@ -75,4 +78,5 @@ curl -X POST http://localhost:8000/api/calendly/book \
 4. All bookings saved to disk
 
 ## Testing
+
 Access Swagger UI at: http://localhost:8000/docs

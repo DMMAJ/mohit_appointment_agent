@@ -1,0 +1,7 @@
+{
+  "2025-01-15": [
+    {"start_time": "09:00", "end_time": "09:30", "available": true},
+    {"start_time": "09:30", "end_time": "10:00", "available": false},
+    {"start_time": "10:00", "end_time": "10:30", "available": true}
+  ]
+}

@@ -1,0 +1,5 @@
+[
+  {"id": "1", "question": "What insurance do you accept?", "answer": "We accept Blue Cross Blue Shield, Aetna, Cigna, UnitedHealthcare and Medicare."},
+  {"id": "2", "question": "What are the clinic hours?", "answer": "Monday-Friday 9:00 AM to 5:00 PM."},
+  {"id": "3", "question": "Where is the clinic?", "answer": "123 Main St, Anytown. Parking is available behind the building."}
+]
